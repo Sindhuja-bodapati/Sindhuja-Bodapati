@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on . Data Science
+- 🔭 I’m currently working on  Data Science
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on MNC Interships 
 - 🤔 I’m looking for help with Machine Learning
